@@ -1,0 +1,13 @@
+a=10
+b=20
+a=a+b
+b=a-b
+a=a-b
+print("A=",a)
+print("B=",b)
+
+OUTPUT
+A= 20
+B= 10
+
+=== Code Execution Successful ===
