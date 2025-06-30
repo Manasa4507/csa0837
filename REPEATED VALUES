@@ -1,0 +1,14 @@
+a="apple is a fruit. anand is great"
+s="a"
+m=a.split()
+for i in m:
+  if (i[0]==s):
+      
+      print(i) 
+
+OUTPUT
+apple
+a
+anand
+
+=== Code Execution Successful ===
