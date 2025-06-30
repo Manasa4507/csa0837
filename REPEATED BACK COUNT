@@ -1,0 +1,16 @@
+a="apple is a fruit. anand is great"
+s="e"
+c=0
+m=a.split()
+for i in m:
+ if(i[len(i)-1]==s):
+     c=c+1
+     print(i)
+print("count=",c)
+  
+
+OUTPUT
+apple
+count= 1
+
+=== Code Execution Successful ===
